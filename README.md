@@ -1,6 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+<div id="badges" align="center">
+<h1>Ivan Plehanov</h1>
+</div>
+
 
 <div id="badges" align="center">
  <a href="www.linkedin.com/in/navi-von">
@@ -33,6 +38,15 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-navivon-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/navi-von)
 
 ---
+### My projects
+#### Netology + Udemy:
+- [Service for downloading a picture from NASA API using Spring MVC + REST](https://github.com/Omen1984/NASAToDay/tree/feature/rest-client)
+- [Service for downloading images from NASA API](https://github.com/Omen1984/NASAToDay/tree/master)
+#### Netology:
+- [graduate work: Search engine for pdf documents](https://github.com/Omen1984/diplom-nethology-search-system)
+- [course project: Task manager](https://github.com/Omen1984/coursework-nethology-task-manager)
+- [course project: Converter to text graphics](https://github.com/Omen1984/coursework-converter-to-text-graphics)
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -48,6 +62,3 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omen1984&theme=dark&background=000000)](https://git.io/streak-stats)
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omen1984&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
