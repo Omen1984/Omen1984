@@ -16,8 +16,8 @@
    <a href="https://t.me/ivanplehanov">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/ivanplehanov">
-    <img src="https://img.shields.io/badge/CV-green?logo=google&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  <a href="https://docs.google.com/document/d/1R8pxOMLekQ5jTh49CvLCcutZiaJtFuUvoyw6qucc9uI/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/CV-green?logo=google&logoColor=white&style=for-the-badge" alt="CV Badge"/>
   </a>
 </div>
 
