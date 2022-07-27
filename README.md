@@ -24,7 +24,7 @@
 ### :man_technologist: Обо мне :
 Я Иван Плеханов - Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">.
 
-- :telescope: Я закончил курсы Java-developer от нетологии [Java-developer 2035](https://cat.2035.university/rall/course/11144/?project_id=41) and курс от Udemy [Spring for beginner](https://www.udemy.com/certificate/UC-25a2a2b2-2457-43dc-ae2f-241bf149e4d5/)
+- :telescope: Я закончил курсы Java-developer от нетологии [Java-developer 2035](https://cat.2035.university/rall/course/11144/?project_id=41) и курс от Udemy [Spring for beginner](https://www.udemy.com/certificate/UC-25a2a2b2-2457-43dc-ae2f-241bf149e4d5/)
 
 - :seedling: Сейчас прохожу обучения по SQL, решаю задачки на [Codewars](https://www.codewars.com/users/Omen1984) и изучаю техническую документацию.
 
