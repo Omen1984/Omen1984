@@ -28,7 +28,7 @@
 
 - :seedling: Сейчас прохожу обучения по SQL, решаю задачки на [Codewars](https://www.codewars.com/users/Omen1984) и изучаю техническую документацию.
 
-- :mailbox:Связаться со ной: [![Taplink Badge](https://img.shields.io/badge/taplink-ivanplehanov-black?style=flat&logo=taplink&logoColor=white)](https://taplink.cc/ivanlehanov)
+- :mailbox:Связаться со мной: [![Taplink Badge](https://img.shields.io/badge/taplink-ivanplehanov-black?style=flat&logo=taplink&logoColor=white)](https://taplink.cc/ivanlehanov)
 
 ---
 
