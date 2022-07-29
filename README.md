@@ -53,3 +53,5 @@
 - [курсовой проект: Task manager](https://github.com/Omen1984/coursework-nethology-task-manager)
 - [курсовой проект: Converter to text graphics](https://github.com/Omen1984/coursework-converter-to-text-graphics)
 ---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omen1984&theme=dark&background=000000)](https://git.io/streak-stats)
