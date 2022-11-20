@@ -52,6 +52,8 @@
 ### Мои проекты
 #### PET
 - [REST API для работы сервиса по записи в парикмахерскую](https://github.com/OWWord/bms-backend)
+#### Виртуальная стажировка СБЕР
+- [Репозиторий](https://github.com/Omen1984/virtual-internship-SBER)
 #### Freelance
 - [Сервис по бронированию отельных номеров backend часть](https://github.com/kronx-projects/hms-backend)
 #### Netology + Udemy:
