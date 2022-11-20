@@ -42,9 +42,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### Мои сертификаты и дипломы
+<div>
+  <img src="https://github.com/Omen1984/Omen1984/blob/main/document/%D0%A1%D0%B1%D0%B5%D1%80-%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%A1%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0.jpg" title="Онлайн стажировка в Сбер" alt="Java" width="150" height="80"/>&nbsp;
+</div>
+
 ---
 
 ### Мои проекты
+#### PET
+- [REST API для работы сервиса по записи в парикмахерскую](https://github.com/OWWord/bms-backend)
+#### Freelance
+- [Сервис по бронированию отельных номеров backend часть](https://github.com/kronx-projects/hms-backend)
 #### Netology + Udemy:
 - [Service for downloading a picture from NASA API using Spring MVC + REST](https://github.com/Omen1984/NASAToDay/tree/feature/rest-client)
 - [Service for downloading images from NASA API](https://github.com/Omen1984/NASAToDay/tree/master)
