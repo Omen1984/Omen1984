@@ -44,7 +44,9 @@
 
 ### Мои сертификаты и дипломы
 <div>
-  <img src="https://github.com/Omen1984/Omen1984/blob/main/document/%D0%A1%D0%B1%D0%B5%D1%80-%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%A1%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0.jpg" title="Онлайн стажировка в Сбер" alt="Java" width="150" height="80"/>&nbsp;
+  <img src="https://github.com/Omen1984/Omen1984/blob/main/document/%D0%A1%D0%B1%D0%B5%D1%80-%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%A1%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0.jpg" title="Онлайн стажировка в Сбер" alt="Java" width="150" height="100"/>&nbsp;
+  <img src="https://github.com/Omen1984/Omen1984/blob/main/document/Udemy-Spring.jpg" title="Spring Zaur Tregulov" alt="Java" width="150" height="100"/>&nbsp;
+  <img src="https://github.com/Omen1984/Omen1984/blob/main/document/Diplom-netology-java-developer.jpg" title="Диплом Netology Java-разработчик" alt="Java" width="150" height="100"/>&nbsp;
 </div>
 
 ---
